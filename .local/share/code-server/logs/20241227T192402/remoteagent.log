@@ -1,0 +1,13 @@
+2024-12-27 19:24:02.327 [info] 
+
+
+
+
+2024-12-27 19:24:02.338 [info] Extension host agent started.
+2024-12-27 19:24:02.387 [info] Started initializing default profile extensions in extensions installation folder. file:///home/coder/.local/share/code-server/extensions
+2024-12-27 19:24:02.403 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/coder/.local/share/code-server/extensions
+2024-12-27 19:24:08.895 [info] [127.0.0.1][71626671][ManagementConnection] New connection established.
+2024-12-27 19:24:14.035 [info] [127.0.0.1][e5a980cf][ExtensionHostConnection] New connection established.
+2024-12-27 19:24:14.038 [info] [127.0.0.1][e5a980cf][ExtensionHostConnection] <4721> Launched Extension Host Process.
+2024-12-27 19:24:32.881 [info] [127.0.0.1][71626671][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-12-27 19:24:32.902 [info] [127.0.0.1][e5a980cf][ExtensionHostConnection] <4721> Extension Host Process exited with code: 0, signal: null.

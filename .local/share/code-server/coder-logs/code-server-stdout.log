@@ -1,0 +1,21 @@
+[2024-12-27T19:00:14.679Z] info  code-server 4.96.2 08cbdfbdf11925e8a14ee03de97b942bba7e8a94
+[2024-12-27T19:00:14.680Z] info  Using user-data-dir /home/coder/.local/share/code-server
+[2024-12-27T19:00:14.690Z] info  Using config file /home/coder/.config/code-server/config.yaml
+[2024-12-27T19:00:14.691Z] info  HTTP server listening on http://127.0.0.1:13337/
+[2024-12-27T19:00:14.691Z] info    - Authentication is disabled
+[2024-12-27T19:00:14.691Z] info    - Not serving HTTPS
+[2024-12-27T19:00:14.691Z] info  Using proxy URI in PORTS tab: https://{{port}}--main--OuteniquaStudios--jcopperman--t8e0tf8nr3at2.pit-1.try.coder.app
+[2024-12-27T19:00:14.691Z] info  Session server listening on /home/coder/.local/share/code-server/code-server-ipc.sock
+[19:24:02] 
+
+
+
+
+[19:24:02] Extension host agent started.
+[19:24:02] Started initializing default profile extensions in extensions installation folder. file:///home/coder/.local/share/code-server/extensions
+[19:24:02] Completed initializing default profile extensions in extensions installation folder. file:///home/coder/.local/share/code-server/extensions
+[19:24:08] [127.0.0.1][71626671][ManagementConnection] New connection established.
+[19:24:14] [127.0.0.1][e5a980cf][ExtensionHostConnection] New connection established.
+[19:24:14] [127.0.0.1][e5a980cf][ExtensionHostConnection] <4721> Launched Extension Host Process.
+[19:24:32] [127.0.0.1][71626671][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[19:24:32] [127.0.0.1][e5a980cf][ExtensionHostConnection] <4721> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,9 @@
+{
+  "name": "k6-testing",
+  "version": "1.0.0",
+  "scripts": {
+    "test:basic": "k6 run tests/basic-test.js",
+    "test:load": "k6 run tests/load-test.js --out json=results/load-test-results.json",
+    "test:stress": "k6 run tests/stress-test.js --out json=results/stress-test-results.json"
+  }
+}

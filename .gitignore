@@ -1,0 +1,9 @@
+.cache
+.config
+.loacl
+.vscode-server
+.bash_logout
+.bashrc
+.init_done
+.profile
+.wget-hsts
